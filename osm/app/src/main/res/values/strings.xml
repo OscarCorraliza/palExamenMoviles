@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">osm</string>
+    <string name="btnShowOpenStreetMaps">SHOW LOCATION</string>
+    <string name="btnShowListNameOfSchools">SHOW SCHOOLS</string>
+    <string name="gps_granted">Permiso GPS concedido</string>
+    <string name="gps_denied">Permiso GPS denegado</string>
+    <string name="ops_2">Get Schools</string>
+</resources>

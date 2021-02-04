@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaIntentyTimerTask</string>
+    <string name="time_in_this_activity"><![CDATA[Time in this activity --> ]]></string>
+    <string name="time_in_inithomeactivity"><![CDATA[Time in InitHomeActivity --> ]]></string>
+    <string name="time_in_initialhomeactivity">Time in InitialHomeActivity --> </string>
+    <string name="time_in_savedataactivity"><![CDATA[Time in SaveDataActivity -->]]></string>
+    <string name="save_data"><![CDATA[Save data -->]]></string>
+    <string name="time_in_addpermissionsactivity"><![CDATA[Time in AddPermissionsActivity -->]]></string>
+    <string name="add_permissions"><![CDATA[Add permissions -->]]></string>
+</resources>
